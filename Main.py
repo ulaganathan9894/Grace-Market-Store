@@ -53,7 +53,7 @@ class Part1(object):
         self.Username = StringVar()
         self.Password = StringVar()
 
-        self.lblTitle = Label(self.heading, text = 'CYBERWARRIOR SYSTEM', font = ('Matura MT Script Captials', 40, 'underline'), bg = 'black', fg = 'red')
+        self.lblTitle = Label(self.heading, text = 'Grace Market Store', font = ('Matura MT Script Captials', 40, 'underline'), bg = 'black', fg = 'red')
         self.lblTitle.pack()#(row = 0, column = 2, columnspan = 1, pady = 0)
 
         #XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX#
